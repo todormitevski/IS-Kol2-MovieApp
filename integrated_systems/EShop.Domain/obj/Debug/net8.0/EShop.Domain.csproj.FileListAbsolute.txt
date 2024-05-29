@@ -34,3 +34,4 @@ C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_syste
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.sourcelink.json

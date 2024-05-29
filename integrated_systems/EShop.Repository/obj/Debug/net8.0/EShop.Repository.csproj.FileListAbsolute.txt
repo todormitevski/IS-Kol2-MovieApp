@@ -43,3 +43,4 @@ C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_syste
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.sourcelink.json

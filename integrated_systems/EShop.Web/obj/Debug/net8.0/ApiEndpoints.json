@@ -44,5 +44,27 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "EShop.Web.Controllers.API.AdminController",
+    "Method": "ImportMovies",
+    "RelativePath": "api/Admin/ImportMovies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[EShop.Domain.DTO.MovieDTO, EShop.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

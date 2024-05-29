@@ -49,3 +49,4 @@ C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_syste
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Service\obj\Debug\net8.0\refint\EShop.Service.dll
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.pdb
 C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Service\obj\Debug\net8.0\ref\EShop.Service.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\Training\Lab 4 Group A\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.sourcelink.json
